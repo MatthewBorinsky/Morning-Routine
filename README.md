@@ -1,6 +1,8 @@
+This was from assignment 1 of UWO CS4483. We were given a list of words and told to choose two and then make a vertical or horizontal slice of a game based on them. The two words I chose were "coffee" and "monsters".
+
 # Morning Routine
-## Matthew Borinsky 251093967
-This was a lot of fun to make but *so insanely difficult to make and time consuming*. 
+## Matthew Borinsky
+This was a lot of fun to make but very challenging. 
 I knew nothing about 2D unity and I definitely learned a lot. I got the jumping and all related animations working and designed the scene myself.
 I really like the concept that the rooms do not take up the whole screen. I think it makes the gameplay more dynamic and the scenes more interesting. 
 The player does not get stuck on walls or ceilings either and all levels can now be easily built as the basis behind them such as tiles have all be set up.
@@ -40,5 +42,7 @@ The player: https://penzilla.itch.io/hooded-protagonist
 The waterfall: https://pimen.itch.io/water-spell-effect-02
 
 The bed: https://opengameart.org/content/lpc-upholstery
+
+The coffee mug: https://openai.com/dall-e-2
 
 
